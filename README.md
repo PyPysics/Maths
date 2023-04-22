@@ -1,2 +1,2 @@
 # Maths
-Techniques and codes to solve range of differential equations
+Techniques and codes to solve different kinds of differential equations
